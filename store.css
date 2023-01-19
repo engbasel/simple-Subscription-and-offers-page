@@ -1,0 +1,89 @@
+/* stayle of colums  */
+.Coulmn_one {
+  width: fit-content;
+  height: fit-content;
+}
+.head_green {
+  text-align: center;
+  background-color: #519251;
+  color: white;
+  font-weight: bold;
+}
+.PERSONAL {
+  text-align: center;
+  color: rgb(170, 179, 179);
+  padding: 5px;
+}
+.PER_MONTH {
+  text-align: center;
+  color: rgb(170, 179, 179);
+  padding: 5px;
+}
+.ditels_One {
+  text-align: center;
+  list-style: none;
+  background-color: #dbf1e9;
+  margin-top: -16px;
+  padding: 5px;
+}
+ul li {
+  padding: 5px;
+  text-decoration: none;
+  color: rgb(110 110 110);
+  border-bottom: solid 1.5px rgb(20, 40, 191);
+}
+ul a {
+  text-decoration: none;
+  width: 100%;
+}
+.Chosse_One {
+  padding: 5px;
+  text-align: center;
+  margin-top: -21px;
+  background-color: rgb(150, 117, 55);
+}
+.Columns {
+  display: flex;
+}
+.Coulmn_one {
+  padding-left: 10%;
+}
+.Coulmn_two {
+  padding-left: 10%;
+}
+.Coulmn_three {
+  padding-left: 10%;
+}
+/* style of texts in end  */
+.texts {
+  display: flex;
+}
+.textfour {
+  padding-left: 30px;
+  padding-top: 20px;
+}
+.textthree {
+  padding-left: 30px;
+  padding-top: 20px;
+}
+.texttow {
+  padding-top: 20px;
+  padding-left: 30px;
+}
+.textone {
+  padding-top: 20px;
+  padding-left: 30px;
+}
+
+.Paragraph {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/* style of last par in page  */
+
+.par {
+  position: relative;
+}
+
+loren
